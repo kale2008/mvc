@@ -1,5 +1,5 @@
 {
-    "name": "kale2008/kale2008",
+    "name": "kale2008/mvc",
     "description": "test",
     "keywords": ["api"],
     "license": "MIT",
@@ -8,11 +8,5 @@
         "php": "^7.1.3",
         "joshcam/mysqli-database-class":"2.9.2",
         "php-amqplib/php-amqplib": "2.6.1"
-    },
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
     }
 }
