@@ -1,7 +1,7 @@
 {
-    "name": "isv/api",
-    "description": "https://www.xinpingmu.com",
-    "keywords": ["isv", "api"],
+    "name": "kaleTest/apiTest",
+    "description": "test",
+    "keywords": ["api"],
     "license": "MIT",
     "type": "project",
     "require": {
