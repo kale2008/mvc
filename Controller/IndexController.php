@@ -7,4 +7,8 @@ class IndexController{
         $this->username = $username;
         $this->password = $password;
     }
+
+    public function login(){
+
+    }
 }
