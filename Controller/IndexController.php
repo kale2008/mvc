@@ -1,7 +1,10 @@
 <?php
 class IndexController{
-    public function __construct()
+    public $username;
+    public $password;
+    public function __construct($username,$password)
     {
-
+        $this->username = $username;
+        $this->password = $password;
     }
 }
