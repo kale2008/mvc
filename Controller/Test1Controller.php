@@ -13,6 +13,6 @@ class Test1Controller{
     }
 
     public function delUser(){
-        echo '删除成功';
+        echo '删除成功1111111111111111111111111111111';
     }
 }
