@@ -11,4 +11,8 @@ class Test1Controller{
     public function login(){
        echo '登录成功！！！';
     }
+
+    public function delUser(){
+        echo '删除成功';
+    }
 }
