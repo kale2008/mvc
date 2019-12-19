@@ -9,6 +9,6 @@ class Test1Controller{
     }
 
     public function login(){
-
+       echo '登录成功！！！';
     }
 }
